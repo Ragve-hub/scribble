@@ -44,12 +44,7 @@ High Watermark — Да
 
 Плата за успех — 20 %
 
----
-
-Подробнее <a href="https://ragve-hub.github.io/scribble//about">О нашей команде</a>
-
-А также <a href="https://ragve-hub.github.io/scribble//security"> О безопасности</a>
 
 ## Нужна помощь?
 
-Если у вас остались прочитайте [О безопасности](a href="https://ragve-hub.github.io/scribble//about), или о нашей команде [О нас](https://ragve-hub.github.io/scribble//about), или пишите на почту [email](@).
+Если у вас остались прочитайте [О безопасности](a href="https://ragve-hub.github.io/scribble//security), или о нашей команде [О нас](https://ragve-hub.github.io/scribble//about), или пишите на почту [email](@).

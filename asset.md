@@ -45,4 +45,4 @@ High Watermark — Да
 Плата за успех — 20 %
 
 
-<a href="/security.md">Безопасность</a>
+<a href="/about">О нас</a> <a href="/security">Безопасность</a>

@@ -11,9 +11,6 @@ links:
   - name:         Статьи
     url:          /
     external:     false
-  - name:         О нас
-    url:          /about
-    external:     false
   - name:         Управление активами
     url:          /asset
     external:     false

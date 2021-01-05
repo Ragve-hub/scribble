@@ -47,4 +47,4 @@ High Watermark — Да
 
 ## Нужна помощь?
 
-Если у вас остались вопросы вы можете прочитать [О безопасности](a href="https://ragve-hub.github.io/scribble//security), или о нашей команде [О нас] (https://ragve-hub.github.io/scribble//about), другие вопросы пишите на почту [email](@).
+Если у вас остались вопросы вы можете прочитать [О безопасности](a href="https://ragve-hub.github.io/scribble//security), или о нашей команде [О нас](https://ragve-hub.github.io/scribble//about), другие вопросы пишите на почту [email](@).

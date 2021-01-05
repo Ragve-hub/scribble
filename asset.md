@@ -50,6 +50,6 @@ High Watermark — Да
 
 А также <a href="https://ragve-hub.github.io/scribble//security"> О безопасности</a>
 
-## Остались вопросы?
+## Нужна помощь?
 
-If you don't find the answer to your problem in our [docs](https://jekyllrb.com/docs/), or in the [troubleshooting section](https://jekyllrb.com/docs/troubleshooting/), ask the [community](https://jekyllrb.com/docs/community/) for help.
+Если у вас остались прочитайте [О безопасности](a href="https://ragve-hub.github.io/scribble//about), или о нашей команде [О нас](https://ragve-hub.github.io/scribble//about), или пишите на почту [email](@).

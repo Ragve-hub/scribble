@@ -49,3 +49,7 @@ High Watermark — Да
 Подробнее <a href="https://ragve-hub.github.io/scribble//about">О нашей команде</a>
 
 А также <a href="https://ragve-hub.github.io/scribble//security"> О безопасности</a>
+
+## Остались вопросы?
+
+If you don't find the answer to your problem in our [docs](https://jekyllrb.com/docs/), or in the [troubleshooting section](https://jekyllrb.com/docs/troubleshooting/), ask the [community](https://jekyllrb.com/docs/community/) for help.

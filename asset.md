@@ -48,3 +48,10 @@ High Watermark — Да
 ## Нужна помощь?
 
 Если у вас остались вопросы читайте [О безопасности](a href="https://ragve-hub.github.io/scribble//security), или о нашей команде [О нас](https://ragve-hub.github.io/scribble//about), любые другие вопросы пишите на почту [email](@).
+
+## Контакты
+Research Algoritmic Group
+г.Тюмень, ул. 50 лет Октября 8Б
+
+8-922-479-23-80
+post@ragve.ru

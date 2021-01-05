@@ -50,4 +50,5 @@ High Watermark — Да
 Если у вас остались вопросы читайте [О безопасности](https://ragve-hub.github.io/scribble//security), о нашей команде [О нас](https://ragve-hub.github.io/scribble//about), часто задаваемые вопросы [Faq](https://ragve-hub.github.io/scribble//faq).
 
 ## Контакты
-г.Тюмень, ул. 50 лет Октября 8Б [Почтовый ящик](post@ragve.ru)
+г.Тюмень, ул. 50 лет Октября 8Б
+post@ragve.ru

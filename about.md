@@ -4,6 +4,8 @@
 
 Наши стратегии реализованы в наиболее ликвидном формате — индивидуально управляемых счетах (separated managed accounts, SMA) в ведущих российских банках.
 
+<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/eqt_4-1.jpg" alt="Доходность по месяцам"></p>
+
 
 # Характеристика:
 

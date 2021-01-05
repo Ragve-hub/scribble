@@ -12,7 +12,7 @@ links:
     url:          /
     external:     false
   - name:         Управление активами
-    url:          /about
+    url:          /asset
     external:     false
 # ------------ CONFIGURABLE END ------------
 

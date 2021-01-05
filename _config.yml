@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Research Algorithmic Group"
-description:      "Such, very cool."
+title:            "R.A.G / Управление активами"
+description:      "Доверительное управление активами"
 url:              https://ragve-hub.github.io/scribble/ # Site url, without a slash at the end.
 signoff:          "rag" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.

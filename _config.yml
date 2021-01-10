@@ -14,6 +14,12 @@ links:
   - name:         Управление активами
     url:          /asset
     external:     false
+   - name:        Стратегии
+    url:          /strategy
+    external:     false
+  
+    
+    
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title

@@ -10,10 +10,10 @@ title: Strategy
 
 Опубликованные торговые стратегии прошли проверку временем и торговались в периоды мирового финансового кризиса 2008 года и валютного кризиса в России в 2014-2015 годах.
 
-<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/eqt_4-1.jpg" alt="Доходность по месяцам">
-<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/eqt_4-1.jpg" alt="Доходность по месяцам">
-<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/eqt_4-1.jpg" alt="Доходность по месяцам">
-<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/eqt_4-1.jpg" alt="Доходность по месяцам">
+<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/str2-1024x405.jpg" alt="2">
+<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/str1-1024x400.jpg" alt="1">
+<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/str3-1024x361.jpg" alt="3>
+<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/str2-1024x398.jpg" alt="4">
 
 
 ## Пояснения к таблицам:

@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/str2-1024x405.jpg" alt="2">
 <img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/str1-1024x400.jpg" alt="1">
 <img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/str3-1024x361.jpg" alt="3>
-<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/str2-1024x398.jpg" alt="4">
+<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/str4-1024x398.jpg" alt="4">
 
 
 ## Пояснения к таблицам:

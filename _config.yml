@@ -14,10 +14,10 @@ links:
   - name:         Управление активами
     url:          /asset
     external:     false
-   - name:        Стратегии
+  - name:        Стратегии
     url:          /strategy
     external:     false
-   - name:        Исследования
+  - name:        Исследования
     url:          /research
     external:     false
 # ------------ CONFIGURABLE END ------------

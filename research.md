@@ -1,5 +1,6 @@
-
-# Neural networks
+---
+title: Neural networks
+---
 <br>
        
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural1.pdf">1</a>]        Feedforward and Recurrent Neural Networks and Genetic Programs

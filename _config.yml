@@ -17,6 +17,10 @@ links:
    - name:        Стратегии
     url:          /strategy
     external:     false
+   - name:        Исследования
+    url:          /research
+    external:     false
+    
    
 # ------------ CONFIGURABLE END ------------
 

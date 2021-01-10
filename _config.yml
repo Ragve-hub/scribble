@@ -19,7 +19,7 @@ links:
     external:     false
    - name:        Исследования
     url:          /research
-    external:     false 
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title

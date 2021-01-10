@@ -1,1 +1,1 @@
-<p>Фундаментальный анализ 2020 <a href="https://ragve-hub.github.io/scribble//security">О безопасности</a> </p>
+<p>[<a href="https://ragve-hub.github.io/scribble//view-06-20">1</a>]        Фундаментальный анализ акций, Июль 2020</p>

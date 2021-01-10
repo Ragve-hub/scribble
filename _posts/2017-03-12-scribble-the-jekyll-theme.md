@@ -1,39 +1,18 @@
 ---
-title: Scribble, a Jekyll theme
-date: 2017-03-12 00:06:52
+title: Сравнение доходностей (дневной/внутридневной/овернайт) разных активов
+date: 2021-01-10 00:06:52
 ---
 
-Instruction as follows. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in.
+Сравнение доходностей (дневной/внутридневной/овернайт) разных активов
 
-## Get started
+Дневные данные за всю историю активов. Источник Финам
 
-1. [Fork the repository](https://github.com/muan/scribble/fork)
+Cортировка по убыванию дневной доходности
 
-2. Clone the repository: `git clone https://github.com/username/scribble`
+## Таблица
+<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/f0668f66-3812-412f-82ee-9b342dc8a275.jpg" alt="Фундаментальный анализ">
 
-3. Run `bundle install`
+## График
 
-4. Run Jekyll: `jekyll serve -w`
+<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/4e6fda4d-80b2-43ab-b785-aaa44aba1d66.jpg" alt="Фундаментальный анализ">
 
-5. Go to http://localhost:4000 for your site.
-
----
-
-## Make it yours
-
-1. Edit `_config.yml`, adn then rerun `jekyll serve -w`
-
-2. Change `about.md` for blog intro
-
-3. For domain settings see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
-
----
-
-<a href="https://github.com/muan/scribble" class="pa3 tc ba br2 db">Get it on GitHub &hearts;</a>
-
----
-
-## The end
-
-Like it? [Tell me](http://twitter.com/muanchiou).<br/>
-Problem? [Use GitHub Issues](https://github.com/muan/scribble).

@@ -1,6 +1,4 @@
----
-title: Исследования
----
+
 # Neural networks
 <br>
        

@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/eqt_4-1.jpg" alt="Доходность по месяцам">
+<p>Если у вас остались вопросы читайте <a href="https://ragve-hub.github.io/scribble//security">О безопасности</a> </p>

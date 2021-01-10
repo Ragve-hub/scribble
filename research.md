@@ -15,81 +15,49 @@ for Stock        Market and Time Series Forecasting, P.C.McCluskey, 1993
           
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural5.pdf">5</a>]        Prediction Risk and Architecture Selection for Neural Networks,
 J.Moody,        1994
-   
-<br>     
-       
+         
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural6.pdf">6</a>]        Economic Forecasting: Challenges and Neural Network Solutions,
 J.Moody,        1995
-     
-<br>   
-       
+          
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural7.pdf">7</a>]        Neural Networks in Economics: Background, Applications and
 New        Developments, R.Herbrich et.al., 1999
-   
-<br>     
-       
+          
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural8.pdf">8</a>]        Incorporating Prior Knowledge About Financial Markets Through
 Neural        Multitask Learning, K.Bartlmae et.al., 1995
-   
-<br>     
-       
+          
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural9.pdf">9</a>]        Neural Networks for Time Series Processing, G.Dorffner, 1996
-   
-<br>     
-       
+          
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural10.pdf">10</a>]        Stock Price Prediction Using Neural Networks, F.W.Op&#8217;t Landt,
 MSc.        thesis, 1997
-   
-<br>     
-       
+          
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural11.ps.gz">11</a>]        Rprop &#8212; Description and Implementation Details, M.Riedmiller,
 1994
-   
-<br>     
-       
+          
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural12.ps">12</a>]        The Self-Organizing Map Program Package, T.Kohonen, 1996
-   
-<br>     
-       
+         
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural13.pdf">13</a>]        On the Analysis of Pattern Sequences by Self-Organizing Maps,
 J.Kangas,        1994
-   
-<br>     
-       
+          
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural14.ps">14</a>]        Dependency Analysis and Neural Network Modeling of Currency
 Exchange        Rates, I.Pi, 1993
-
-   
-<br>     
        
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural15.pdf">15</a>]        Forecasting the 30-year U.S. Treasury Bond with a System of
 Neural        Networks, W.Cheng et.al., 1996
-   
-<br>     
-       
+          
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural16.pdf">16</a>]        Optimal Asset Allocation using Adaptive Dynamic Programming,
 R.Neunejer,        1995
    
-<br>     
-       
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural17.pdf">17</a>]        A Nonparametric Approach to Pricing and Hedging Derivative
 Securities        Via Learning Networks, J.M.Hutchinson et.al., 1994
    
-<br>     
-       
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural18.pdf">18</a>]        Comparative Study of Stock Trend Prediction 
 Using Time Delay, Recurrent and Probabilistic Neural Networks , Danil V. Prokhorov, 1998
    
-<br>     
-       
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural19.pdf">19</a>]        Forecasting Financial Markets using Neural Networks: an Analysis
 of        Methods and Accuracy, J.Kutsurelis, 1998
    
-<br>     
-       
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural20.pdf">20</a>]      On Developing a Financial Prediction System:
 Pitfalls and Possibilities , Stefan Zemke
-<br>
 
 [<a href="http://www.smartquant.com/references/NeuralNetworks/neural21.pdf">21</a>]
                         A Case Study on Using Neural Networks to Perform

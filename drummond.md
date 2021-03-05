@@ -1,7 +1,7 @@
 Заметки по курсу Drummond Geometry
 ---
 
-* <p>[<a href="http://ragve.ru//view-02-21">1</a>]        Урок 1: Основные элементы </p>
+* <p>[<a href="http://ragve.ru//view-02-21">Урок 1</a>]      Основные элементы </p>
 * <p>[<a href="http://ragve.ru//view-01-21">2</a>]        Урок 2: Линии </p>
 * <p>[<a href="http://ragve.ru//view-11-20">3</a>]        Урок 3: Временные рамки </p>
 * <p>[<a href="http://ragve.ru//view-06-20">4</a>]        Урок 4 : </p>

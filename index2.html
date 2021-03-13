@@ -2,10 +2,9 @@
 layout: default
 ---
 
-{% capture tag %}
-  {% for tag in site.tag %}
+{% capture tags %}
+  {% for tag in site.tags %}
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
-{% assign sortedtags = tag | split:' ' | sort %}
-
+{% assign sortedtags = tags | split:' ' | sort %}

@@ -11,9 +11,6 @@ links:
   - name:         Блог
     url:          /
     external:     false
-  - name:         Аналитика
-    url:          /view
-    external:     false
   - name:         Управление активами
     url:          /asset
     external:     false

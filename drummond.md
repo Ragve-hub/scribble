@@ -1,5 +1,5 @@
 ---
-tags: classic hollywood 
+tags: TAG 
 ---
 
 Заметки по курсу Drummond Geometry

@@ -33,26 +33,6 @@
 * <p>[<a href="http://ragve.ru">*Урок 30</a>]     Верные неторопливые сделки (SFT) </p>
 
 
-<h1>jekyll</h1>
-
-<ul>
-  <li>
-    September 15, 2014: <a href="/2014/09/15/easy-meta-redirects-with-jekyll/">Easy meta redirects with Jekyll</a>
-  </li>
-  <li>
-    August 22, 2014: <a href="/2014/08/22/jekyll-lightbox2-image-gallery-another-approach/">Jekyll / Lightbox2 image gallery, another approach</a>
-  </li>
-  <li>
-    June 18, 2014: <a href="/2014/06/18/building-a-pseudo-dynamic-tree-menu-with-jekyll/">Building a pseudo-dynamic tree menu with Jekyll</a>
-  </li>
-  <li>
-    March 08, 2014: <a href="/2014/03/08/generating-an-image-gallery-with-jekyll-and-lightbox2/">Generating an image gallery with Jekyll and Lightbox2</a>
-  </li>
-  <li>
-    December 31, 2013: <a href="/2013/12/31/hello-jekyll/">Hello, Jekyll!</a>
-  </li>
-</ul>
-
 
 
 

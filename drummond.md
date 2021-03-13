@@ -1,6 +1,3 @@
----
-tags: TAG 
----
 
 Заметки по курсу Drummond Geometry
 ---
@@ -37,7 +34,7 @@ tags: TAG
 * <p>[<a href="http://ragve.ru">*Урок 30</a>]     Верные неторопливые сделки (SFT) </p>
 
 
-{{site.tags.TAG}}
+
 
 
 

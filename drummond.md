@@ -35,7 +35,7 @@
 * <p>[<a href="http://ragve.ru">*Урок 30</a>]     Верные неторопливые сделки (SFT) </p>
 
 
-
+{{site.tags.TAG}}
 
 
 

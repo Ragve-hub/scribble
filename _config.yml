@@ -17,10 +17,7 @@ links:
   - name:        Стратегии
     url:          /strategy
     external:     false
-  - name:        Рекомендации
-    url:          /research
-    external:     false
-# ------------ CONFIGURABLE END ------------
+  # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
 defaults:

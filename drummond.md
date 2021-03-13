@@ -1,4 +1,6 @@
-
+---
+tags: classic hollywood 
+---
 
 Заметки по курсу Drummond Geometry
 ---

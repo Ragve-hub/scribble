@@ -1,3 +1,5 @@
+tags: [backup, roboshell-backup, truecrypt]
+
 Заметки по курсу Drummond Geometry
 ---
 

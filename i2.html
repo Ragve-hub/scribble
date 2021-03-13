@@ -18,7 +18,8 @@ title: Tags
   <ul>
   {% for post in site.tags[tag] %}
     <li>
-         </li>
+     {% include postlistitem.html %}    
+    </li>
   {% endfor %}
   </ul>
 {% endfor %}

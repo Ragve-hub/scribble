@@ -111,7 +111,7 @@ Forecasting the Variability of Stock Index Returns with Stochastic Volatility
 Models and Implied Volatility, E.Hol and S.L.Koopman, 2000
 
 <br>     
-[<a href=http://www.smartquant.com/references/Volatility/vol23.pdf">23</a>]
+[<a href="http://www.smartquant.com/references/Volatility/vol23.pdf">23</a>]
 Tree Structured GARCH Models, F.Audrino and P.Buhlmann, 2000
 
 <br>     

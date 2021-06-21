@@ -4,6 +4,9 @@ title: Совместная работа является необходимым
 
 Структура сервера представляет собой структуру небольшого квант фонда/квант группы, с минимальной инфраструктурой и численностью персонала.
 
+
+<iframe src="https://discord.com/widget?id=845947068874096660&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 # Вы получаете:
 
 Архитектурный подход (единый фреймворк)
@@ -15,6 +18,3 @@ title: Совместная работа является необходимым
 Решения на основе стандартов (Transaq, Plaza2, Fix, Fast)
 
 Качество созданных решений
-
-
-<iframe src="https://discord.com/widget?id=845947068874096660&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

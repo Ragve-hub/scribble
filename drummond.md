@@ -36,17 +36,9 @@
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dHHmUF9gs70" frameborder="0" allowfullscreen></iframe> 
+
 
 <iframe src="https://discord.com/widget?id=845947068874096660&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-<div class="video-container">
-    <iframe src="https://discord.com/widget?id=845947068874096660&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-    </iframe>
-</div>
-
-
-
 
 
 

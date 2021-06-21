@@ -18,5 +18,3 @@ title: Совместная работа является необходимым
 
 
 <iframe src="https://discord.com/widget?id=845947068874096660&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-Жизнь слишком коротка, чтобы работать с придурками. Мы работаем с хорошими людьми, чтобы построить отличный бизнес

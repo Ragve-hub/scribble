@@ -33,14 +33,3 @@
 * <p>[<a href="http://ragve.ru">*Урок 29</a>]     О стоп заявках и управлении капиталом </p>
 * <p>[<a href="http://ragve.ru">*Урок 30</a>]     Верные неторопливые сделки (SFT) </p>
 
-
-
-
-
-
-<iframe src="https://discord.com/widget?id=845947068874096660&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
- 
-
-
-
-
